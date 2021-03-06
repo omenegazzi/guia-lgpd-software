@@ -1,4 +1,4 @@
-# Guia para alcançar a conformidade da LGPD por meio de Requisitos de Negócios e Requisitos de Solução
+# Guia para alcançar a conformidade da LGPD 
 
 Definimos e Ilustramos nossa abordagem com foco nas obrigações da LGPD estabelecidas no artigo 6º da lei, que atende a 10 Princípios fundamentais.
 
