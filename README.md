@@ -7,3 +7,5 @@ Definimos e Ilustramos nossa abordagem com foco nas obrigações da LGPD estabel
 **- Requisitos de negócio**  
 **- Requisitos de solução**  
 **- Catálogo de controle de privacidades**  
+
+Website: https://cin.ufpe.br/~dm5/guia-lgpd/
